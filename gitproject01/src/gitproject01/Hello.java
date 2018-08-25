@@ -4,5 +4,8 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello~");
 		System.out.println("01Commit");
+		
+		
+		System.out.println("02Commit");
 	}
 }
